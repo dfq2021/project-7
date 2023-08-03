@@ -58,4 +58,5 @@ C=hash_function(str(salt_C).encode('utf-8')+c.digest())
 |-------|-----------|--------|----------------------------|
 | Cpp   | Windows10 | pycharm| Intel(R) Core(TM)i7-11800H |
 # 小组分工
-戴方奇 202100460092 单人组完成project12
+戴方奇 202100460092 单人组完成project7
+
